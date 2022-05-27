@@ -1,3 +1,3 @@
 #!/bin/bash
-#my first script
+# My first script
 pwd
